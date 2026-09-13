@@ -1,17 +1,24 @@
 # flutter_app_cha
+## Student Task Manager
 
-A new Flutter project.
+Student Task Manager is a lightweight Flutter mobile application built to help
+university students stay on top of their daily academic activities —
+assignments, lectures, research submissions, presentations, and exam
+preparation. Rather than juggling scattered notes or reminders, students can
+capture every task in one place, tag it with a category and priority, and
+track its progress from a single dashboard.
 
-## Getting Started
+### Features
+- **Add tasks** with a title, category (Assignment, Lecture, Research, Exam,
+  Personal), and priority (High, Medium, Low)
+- **Dashboard overview** showing live counts of Total, Completed, and
+  Pending tasks
+- **Task list** displaying all tasks as cards with their category, priority,
+  and current status
+- **Mark tasks complete or pending** with a single tap
+- **Delete tasks** that are no longer needed
+- **Input validation** to prevent adding a task with an empty title
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
